@@ -73,6 +73,7 @@ button {
     background-color:#ffffff;
     color: #1f2937;
     height: 400px; 
+    text-align: center;
 }
 
 .random {
@@ -81,4 +82,21 @@ button {
     font-size: 36px;
     font-weight: bolder;
     padding: 50px;
+}
+
+.tile {
+    display: flex;
+    justify-content: center;
+    max-width: 100px;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    background: #ffffff;
+    border-color: #3882f6;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
 }
