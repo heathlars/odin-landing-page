@@ -133,4 +133,25 @@ button {
     background-color: #3882f6;
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 50px;
+    margin: 50px; 
+    border-radius: 10px;
+}
+
+.call {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.info {
+    color: #E5E7EB;
+}
+
+.ton {
+    border: #ffffff;
+    border-style: solid;
+    border-width: 2px;
 }
