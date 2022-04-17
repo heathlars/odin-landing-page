@@ -104,15 +104,12 @@ button {
 /* three */
 .three {
     background-color: #E5E7EB;
-    height: 400px; 
-    display: flex;
-    flex-wrap: wrap;
     padding: 100px;
 }
 
 .quote {
     font-size: 36px;
-    font-style:italic;
+    font-style: italic;
 }
 
 .author {
@@ -120,5 +117,4 @@ button {
     font-weight: bold;
     display: flex;
     justify-content: end;
-    padding: 0;
 }
